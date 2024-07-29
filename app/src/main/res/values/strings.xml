@@ -1,0 +1,7 @@
+<resources>
+        <string name="app_name">KuntaKatselu2</string>
+        <string name="weather">Weather</string>
+        <string name="home">Home</string>
+        <string name="comparison">Compare</string>
+
+</resources>
